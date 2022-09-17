@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    width: 100%;
+    background: #101928;
+}
+header {
+    background: none;
+    width: 100%;
+    padding: 10px;
+    border-bottom: 1px solid white;
+}
+header .header-right .hr-icon{
+    margin-left: 70%;
+    margin-bottom: 10px;
+    margin-top: 15px;
+
+}
+header .header-right .hr-icon i{
+    color: #0CAC97;
+    font-size: 1.8rem;
+    margin-left: 30px;
+    margin-top: 3px;
+    position: absolute;
+}
+header .header-right .hr-icon input{
+    font-size: 15px;
+    border-radius: 18px;
+    color: rgb(10, 74, 74);
+    border: 2px solid #0CAC97;
+    padding: 5px;
+    background: none;
+    width: 265px;
+}
+header .h-img {
+    position: absolute;
+    margin-top: -60px;
+    margin-left: 150px;
+}
+header .h-img img{
+    width: 190px;
+}
+header .nav ul {
+    position: absolute;
+    display: block;
+    margin-left: 28%;
+    margin-top: -36px;
+
+}
+header .nav ul li{
+    display: inline-block;
+    margin-left: 60px;
+    font-family: 'Poppins', sans-serif;
+   
+
+}
+header .nav ul li a{
+    display: inline-block;
+    color: #0CAC97;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
