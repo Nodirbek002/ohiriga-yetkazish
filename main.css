@@ -85,4 +85,35 @@ header .nav ul li a{
      margin-top: 70px;
      margin-left: 80px;
  }
- 
+ .ikon{
+    font-size: 40px;
+    margin-left: 28px;
+    margin-top: 70px;
+ }
+ .ikonk{
+    font-size: 40px;
+    margin-left: 28px;
+    margin-top:70px;
+ }
+ .ikonka{
+    font-size: 40px;
+    margin-left: 28px;
+    margin-top: 70px;
+ }
+ .ikonka1{
+    font-size: 40px;
+    margin-left: 28px;
+    margin-top: 70px;
+ }
+ .but{
+    width: 250px;
+    height: 50px;
+    background: #0CAC97;
+    border-radius: 50px;
+    margin-left: 30px;
+    margin-top: 30px;
+ }
+ h4{
+    font-family: Tahoma;
+    color: black;
+ }
